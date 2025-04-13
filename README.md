@@ -18,7 +18,7 @@ Sur ce compte, je publie mes **premiers projets**, principalement réalisés ave
 Un petit jeu où le but est **d’esquiver des ennemis** le plus longtemps possible.  
 Simple, rapide à prendre en main, et codé entièrement avec Godot.
 
-![Aperçu de Dodging Dudes](https://github.com/Legendevry/Dodging_Dudes/raw/main/assets/preview.png)
+![Aperçu de Dodging Dudes](https://github.com/Legendevry/Dodging_Dudes/raw/main/assets/Preview.png)
 
 ---
 
