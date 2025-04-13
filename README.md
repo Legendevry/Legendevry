@@ -1,16 +1,43 @@
-## Hi there 👋
-readme file
-<!--
-**Legendevry/Legendevry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bienvenue sur mon GitHub !
 
-Here are some ideas to get you started:
+Je suis **lycéen** et je m'initie à la programmation pendant mon temps libre.  
+Sur ce compte, je publie mes **premiers projets**, principalement réalisés avec **Godot Engine**, mais je commence aussi à découvrir d'autres langages petit à petit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies que j’utilise pour l’instant :
+
+- 🎮 [Godot Engine](https://godotengine.org/) (GDScript)
+- 💻 Je découvre aussi Python, HTML/CSS, JavaScript...
+
+---
+
+## 📂 Projets disponibles
+
+### 🎯 [Dodging_Dudes](https://github.com/Legendevry/Dodging_Dudes)
+Un petit jeu où le but est **d’esquiver des ennemis** le plus longtemps possible.  
+Simple, rapide à prendre en main, et codé entièrement avec Godot.
+
+![Aperçu de Dodging Dudes](https://github.com/Legendevry/Dodging_Dudes/raw/main/assets/preview.png)
+
+---
+
+### 📝 [To_do_list](https://github.com/Legendevry/To_do_list)
+Une **application Windows légère** pour garder une to-do list visible dans un coin de l'écran.  
+Idéale pour rester concentré quand on code ou révise !
+
+<p align="center">
+  <img src="https://github.com/Legendevry/To_do_list/raw/main/assets/Capture2.png" alt="Aperçu de la To-Do List" width="50%" />
+</p>
+
+---
+
+## 📫 Me contacter
+
+Pour toute suggestion ou question :
+
+[✉️ legendevry@gmail.com](mailto:legendevry@gmail.com)
+
+---
+
+Merci de votre visite et bon code ! 🚀
