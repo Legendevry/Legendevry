@@ -35,7 +35,8 @@ Idéale pour rester concentré quand on code ou révise !
 ### 🎯 [Flash-Cards](https://github.com/Legendevry/Flash_cards))
 Une simple application de *flash-cards*
 <p>
-  <img src="https://github.com/Legendevry/Dodging_Dudes/raw/main/assets/Preview.png" alt="Aperçu du jeu" width="25%" />
+  <img src="https://github.com/Legendevry/Flash_cards/raw/main/preview/image_preview.png" alt="Aperçu du jeu" width="25%" />
+  
 </p>
 
 ---
